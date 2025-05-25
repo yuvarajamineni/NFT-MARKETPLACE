@@ -67,15 +67,21 @@ cd client
 npm install
 
 ```
+---
+
 ### Start Frontend
 
 cd client
 npm run dev
 
+---
+
 ### Compile & Deploy Smart Contracts
 
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network <your-network>
+
+---
 
 ### Wallet Setup
 
