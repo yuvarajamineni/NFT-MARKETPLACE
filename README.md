@@ -54,7 +54,7 @@ NFT-Verse/
 
 ---
 
-### 🔧 Install Dependencies
+### Install Dependencies
 
 In both root and client directories:
 
